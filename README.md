@@ -1,7 +1,9 @@
 # Room Architect Tool
 
+# Note, this is the Unity project, and should only be used to add new features. If you are looking to simply download for room-creation use [go here.](https://thunderstore.io/c/enter-the-gungeon/p/Alexandria/RoomArchitectTool/)
 
 An up-to-date version of the [original Room Architect Tool](https://modworkshop.net/mod/27087) with multiple new features, but exports a more feature-dense file type which can be read by Alexandrias DungeonAPI.
+
 
 
 ## Features
